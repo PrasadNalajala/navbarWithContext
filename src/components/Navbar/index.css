@@ -16,16 +16,24 @@
   font-size: 25px;
   margin-right: 10px;
   cursor: pointer;
+  text-decoration: none;
 }
 .lightTheme {
   color: #171f46;
   font-size: 25px;
   margin-right: 10px;
   cursor: pointer;
+  text-decoration: none;
 }
 .dark-mode {
   background-color: #333333;
 }
 ul {
   list-style-type: none;
+}
+button {
+  background-color: transparent;
+  border-style: none;
+}
+Link {
 }
