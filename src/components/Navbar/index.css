@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.nav-bg {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.logo {
+  height: 70px;
+}
+.link-container {
+  display: flex;
+  align-items: center;
+}
+.darkTheme {
+  color: #ffffff;
+  font-size: 25px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.lightTheme {
+  color: #171f46;
+  font-size: 25px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.dark-mode {
+  background-color: #333333;
+}
+ul {
+  list-style-type: none;
+}
